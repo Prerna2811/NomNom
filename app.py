@@ -181,5 +181,5 @@ with st.container():
                                         result=human_feedback
                         )
                         tru.get_leaderboard(app_ids=[tru_app.app_id])
-                    tru.run_dashboard()
+                        tru.run_dashboard()
                            
